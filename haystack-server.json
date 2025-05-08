@@ -1,0 +1,8 @@
+{
+"implementation":"skyspark",
+"uri": "http://localhost/haystack/about",
+"username": "admin",
+"password": "ELLsec2023$",
+"project": "None",
+"pint": "true"
+}
